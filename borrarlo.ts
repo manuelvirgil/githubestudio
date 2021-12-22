@@ -1,7 +1,7 @@
 
 import { Observable, of } from 'rxjs';
 type Route1 = string |number;
-type NewType_1 = Route;
+type NewType_1 = {};
 
 type NewType = NewType_1;
 
